@@ -6,7 +6,7 @@ category: food
 
 We held a cake sale in OnePageCRM last week to raise money for our [MS Ireland's Galway's Fittest Workplace](1) team.
 The whole office got behind the idea and a huge variety of cakes and bakes were produced.
-I don't know how to bake any cakes or anything sweet, so I voulenteered to make bread for sandwiches.
+I don't know how to bake any cakes or anything sweet, so I volunteered to make bread for sandwiches.
 
 I generally use the same recipe for bread and pizza dough - it's super simple and nearly always works out ok for me.
 I'm always being asked the recipe, so here it is:
