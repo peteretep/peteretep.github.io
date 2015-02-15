@@ -14,3 +14,6 @@ about:
   personal_github: peteretep
   job: 'Ruby on Rails developer at OnePageCRM.'
   image: '/img/peter.jpg'
+
+image_folder: "img"
+default_feature_image: "img/default.jpg"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Last Few Weeks....
-categories: south_america_trip
+category: south-america-trip
 ---
 Hey Guys,
 

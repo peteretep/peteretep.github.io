@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Back in Montevideo....
-categories: south_america_trip
+category: south-america-trip
 ---
 Two days later and back in Montevideo! We went on a little summer holiday out to Piriápolis. Its a real seaside town. Stayed in a cute little cabin. The guy who owned the place mumbled to Peter how fine the Irish whiskey is! As its just spring here the place was a little bit quiet but it was a good break and nice to see the sea...
 

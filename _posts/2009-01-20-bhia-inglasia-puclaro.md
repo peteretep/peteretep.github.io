@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bahia Inglasia & Puclaro
-categories: south_america_trip
+category: south-america-trip
 ---
 
 So after the thrill of jumping off a cliff, we got back on the road. Our destination was a small town by the sea called Bahia Inglasia. I wanted to go there because kitesurfing was mentioned in the lonely planet book, but there was no wind and it was cloudy when we got there. We used our new tent and camped wild on the beach that night.

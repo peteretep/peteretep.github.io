@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Montivideo
-categories: south_america_trip
+category: south-america-trip
 ---
 At the moment we are in Motivideo, the capital of Uruguay. We were expecting great things after Colonia, but it's a bit disappointing. It's a little dingy, dusty and really really dead. We're here on a Saturday and it was very quiet today. We went to an indoor market kind of place that specialises in Bar-B-Ques. It sounded great and looked great, and since we hadn't had any breakfast we decided to go for the full works; a full platter of meat of questionable origin for two. Chops, chicken, sausages, black puddings, spicy sausages, and a few other wobbly things. We won't be doing that again..
 

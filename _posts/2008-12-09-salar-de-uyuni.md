@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Salar de Uyuni
-categories: south_america_trip
+category: south-america-trip
 ---
 So this was it, the part of the trip that we had heard the most about, a 3 day 4x4 trek through the desert, including visiting lagoons, geysers, volcanoes, seeing flamingos and llamas, and of course the amazing salt flats near the town of Uyuni in the south of Bolivia.
 

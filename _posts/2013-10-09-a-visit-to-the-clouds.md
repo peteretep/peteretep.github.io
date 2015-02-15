@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A Visit To The Clouds
-categories: Technology
+category: Technology
+excerpt: We have recently come up against some infrastructure capcacity issues at my workplace. After some investigation, we realised that our servers are not running as efficiently as they could be. We needed to update the OS on the servers, and this meant a visit to the data centre.
 ---
 
 We have recently come up against some infrastructure capcacity issues at my workplace. After some investigation, we realised that our servers are not running as efficiently as they could be. We are running an older operating system (Centos 5). Although the servers all contain 64bit hardware, the 32bit version of Centos was running on them. This meant or applications couldn't use the full power and RAM available on the servers.

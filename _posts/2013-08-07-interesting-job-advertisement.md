@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interesting job advertisement
-categories: Technology
+category: Technology
 ---
 I spotted <a href="http://iqcontent.com/people/careers/lead-web-developer/">this</a> job posting from iQ Content and thought it was interesting because it asks candidates to do a few "coding challenges" to go with their application. Their choices of projects is interesting and highlights the importance of being able to work with API's, mobile, and of course that most current of web design buzz words "Responsive Design".
 

@@ -16,7 +16,6 @@
       <a class="navbar-brand" href="/">
         {{ site.name }}
       </a>
-      <a class="navbar-text navbar-right" href="/about/"> about me </a>
       <a class="navbar-text navbar-right" target="_blank" href="https://twitter.com/peteretepeter">
         <i class="fa fa-twitter fa-lg"></i>
       </a>
@@ -28,6 +27,8 @@
         {{ content }}
       </div>
       <div class="col-md-3">
+      {% include about.html %}
+      {% include category_list.html %}
         
       </div>
     </div>

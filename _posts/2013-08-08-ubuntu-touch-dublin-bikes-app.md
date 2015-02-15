@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Ubuntu Touch Dublin Bikes App
-categories: Technology
+category: Technology
+excerpt: A while ago I started working on an Ubuntu Touch app for the DublinBikes bicycle sharing scheme. I'm a big fan of the bike sharing scheme and use them whenever I am out and about in the centre of Dublin.
 ---
 A while ago I started working on an Ubuntu Touch app for the [DublinBikes](http://DublinBikes.ie) bicycle sharing scheme. I'm a big fan of the bike sharing scheme and use them whenever I am out and about in the centre of Dublin.
 

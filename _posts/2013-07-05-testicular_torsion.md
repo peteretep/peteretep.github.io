@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Testicular Torsion
-categories: Health
+category: Health
 ---
 
 **tor·sion**  /ˈtôrSHən/
 Noun
 1.  The action of twisting or the state of being twisted, esp. of one end of an object relative to the other.
 2.  The extent to which a curve departs from being planar
-**tes·ti·cle ** /ˈtestikəl/
+
+**tes·ti·cle** /ˈtestikəl/
 Noun
 1.  Either of the two oval organs that produce sperm in men and other male mammals, enclosed in the scrotum behind the penis.
 

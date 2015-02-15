@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BA, we made it!
-categories: south_america_trip
+category: south-america-trip
 ---
 wohoo, after two tedious plane trips we're here!
 

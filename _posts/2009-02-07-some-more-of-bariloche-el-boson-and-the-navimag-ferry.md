@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some more of Bariloche, El Boson and the Navimag Ferry
-categories: south_america_trip
+category: south-america-trip
 ---
 We ended up having a lovely break in Bariloche. Camped out for the week, ate plenty of the local chocolate and just relaxed - enjoying the peacee and quiet of the lovely little campsite which was located out of the business of the town but luckily on a pretty frequent bus route. We finally got to do a bit of rafting - first time for the both of us and boy did we have fun! Twas absoutely savage. Thankfully neither of us got thrown out of the boat but we did hop in for a swim/bob down some of the rapids and got to laugh at some of the other rafts coming down behind us.
 

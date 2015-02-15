@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Stackoverflow Contribution!
-categories: Technology
+category: Technology
 ---
 
 Like <del>most</del> all developers, I am a heavy user of <a href="http://stackoverflow.com">stackoverflow.com</a>. There is nearly always someone who has had the same problem as you in the past and nearly always a helpful answer below it.

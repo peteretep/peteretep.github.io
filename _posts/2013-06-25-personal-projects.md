@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personal Projects
-categories: Technology
+category: Technology
 ---
 This time last year, I was looking for my first web development job. "Make sure people can see your code", "get a github profile" and "work on some personal project that you care about" were all good pieces of advice given to me by different people. I followed that advice as best I could and landed a job one year ago next Monday.
 

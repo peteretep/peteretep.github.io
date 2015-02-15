@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"Death Road" mountain biking'
-categories: south_america_trip
+category: south-america-trip
 ---
 today we did the so called "worlds most dangerous road" mountainbike trip. its a popular tour from la paz to corico along a wet, dusty bumpy road through waterfalls and jungle with a 400m drop on one side. I think its a 3000m descent over the 60kms. 
 it was savage, mountain biking may be the no wind answer to kitesurfing!

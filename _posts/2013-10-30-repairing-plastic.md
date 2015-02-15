@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Repairing a Plastic Kayak
-categories: Outdoors
+category: Outdoors
+excerpt: I recently found out about a new epoxy resin called G-Flex. It's designed specially for bonding to plastics, for example the plastic used to make whitewater kayaks and many sailing dinghies. A friend had a broken kayak lying around at home so we decided to pick up some of this epoxy and have a go repairing it. It didn't end well.
 ---
 I recently found out about a new epoxy resin called <a href="http://www.westsystem.com/ss/g-flex-epoxy/">G-Flex</a>. It's designed specially for bonding to plastics, for example the plastic used to make whitewater kayaks and many sailing dinghies. A friend had a broken kayak lying around at home so we decided to pick up some of this epoxy and have a go repairing it.
 
 
+I have a fair bit of experience working with epoxy and wood. They are great materials to use together and you can do some amazing things with them.
 
 <div class="row">
   <div class="col-md-6">
@@ -17,9 +19,6 @@ I recently found out about a new epoxy resin called <a href="http://www.westsyst
     </div>
   </div>
 </div>
-
-
-I have a fair bit of experience working with epoxy and wood. They are great materials to use together and you can do some amazing things with them.
 
 The G-Flex epoxy makes some pretty impressive claims. Check out this video:
 

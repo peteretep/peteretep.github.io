@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Torres del Paine
-categories: south_america_trip
+category: south-america-trip
 ---
 We spent the last four days trecking in the Torres del Paine national park in Patagonia. The park is one of the most popular sights in South America and one of the most popular National Parks.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Valparaíso & Santiago
-categories: south_america_trip
+category: south-america-trip
 ---
 So so we spent a few days in Valparaíso. Crazy town, with lots of hills to keep us fit! We took it nice and easy here, rented a boat and got some more sailing lessons from peter...
 

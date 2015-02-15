@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moving from Wordpress to Jekyll
-categories: technology
+category: technology
 excerpt: I haven't blogged on here for a while - I haven't been able to think of anything to write about. To kickstart things again, I'm moving this blog from Wordpress to Github pages and Jekyll.
 ---
 

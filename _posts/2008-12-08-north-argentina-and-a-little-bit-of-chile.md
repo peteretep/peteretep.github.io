@@ -1,7 +1,7 @@
 ---
 layout: post
 title: North Argentina and a Little Bit of Chile...
-categories: south_america_trip
+category: south-america-trip
 ---
 Hello hello.. Sorry for lack of blogging but the auld wee fee was hard to come by for a while... So after Tucuman we went higher to Tafi De Valle to some cooler temperatures. We both ended up being sick at the same time so recovered a little and move onwards and upwards to Cafayte. Spent a few more days there. Rented some bicycles but found the sandy tracks very tricky to cycle on...
 

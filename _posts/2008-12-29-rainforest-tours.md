@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rainforest tours
-categories: south_america_trip
+category: south-america-trip
 ---
 <p style="margin-bottom:0;">Hellooooo. Apologies for lack of blogging but we've been busy beavers! We're also a camera down. I misplaced it after the mountain biking trip. We were brought to an animal sancutary for dinner and  were warned the monkies liked to rob shiny things so I think a little family of monkies are playing with my camera as I type! A fine Christmas present no doubt. Anyway hurray for travel insurance, I'll purchse a new one soon.</p>
 <p style="margin-bottom:0;"></p>

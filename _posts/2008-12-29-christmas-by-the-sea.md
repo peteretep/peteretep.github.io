@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christmas by the sea
-categories: south_america_trip
+category: south-america-trip
 ---
 So we said goodbye to Bolivia just before Christmas and snuck out to the coastline for 'holidays'! We spent the last week in Arica, Chile. It's a nice little touristy town and Peter even got to go kitesurfing on Christmas day. He described the local instrutor as a bit of a cowboy. We took it real easy the past few days. Enjoyed the novelty of a swimming pool and cable tv in the hotel. Christmas dinner was a little depressing. We had lunch in McDonalds and dinner in this dodgey diner!</p>
 

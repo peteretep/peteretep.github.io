@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beer in Uruguay
-categories: south_america_trip
+category: south-america-trip
 ---
 The beer in Uruguay is called "Patricia".
 
