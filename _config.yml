@@ -1,3 +1,16 @@
-name: Your New Jekyll Site
+name: Peter Armstrong
 markdown: redcarpet
-pygments: true
+highlighter: true
+paginate: 5
+paginate_path: "page:num/"
+
+about:
+  name: Peter Armstrong
+  display_name: Peter
+  email: peteretep@gmail.com
+  web: http://peterarmstrong.ie
+  twitter: peteretepeter
+  company_github: peterOnePageCRM
+  personal_github: peteretep
+  job: 'Ruby on Rails developer at OnePageCRM.'
+  image: '/img/peter.jpg'
