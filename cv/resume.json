@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Peter Armstrong",
+    "label": "Ruby on Rails Developer",
+    "email": "peteretep@gmail.com",
+    "website": "http://peterarmstrong.ie",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "peteretepeter",
+        "url": "https://twitter.com/peteretepeter"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://ie.linkedin.com/in/peteretep"
+      },
+      {
+        "network": "GitHub",
+        "username": "peteretep",
+        "url": "https://github.com/peteretep"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "OnePageCRM",
+      "position": "Ruby on Rails Developer",
+      "website": "http://onepagecrm.com",
+      "startDate": "2014-02-01",
+      "summary": "",
+      "highlights": [
+        "Developing new features and improvements to the OnePageCRM web application using Ruby on Rails, MongoDB",
+        "Responsibility for maintaining the OnePageCRM API and working with the mobile team on new API features",
+        "Maintaining and improving the large legacy codebase",
+        "Leading the weekly team retrospective meeting",
+        "Regular support responsibilities, both to technical and non technical customers",
+        "Writing for the developer blog at http://developer.onepagecrm.com/blog"
+      ]
+    },
+    {
+      "company": "VisualID",
+      "position": "Web Applications Developer",
+      "website": "http://visualid.com",
+      "startDate": "2012-06-01",
+      "endDate": "2014-01-31",
+      "highlights": [
+        "Worked in the small DevOps team to support and improve the Visual ID Digital Asset Management application",
+        "Managed production and development servers - CentOS, OSX and Ubuntu. This includes co-located, private cloud (Xen Virtualisation) and public cloud (Rackspace) servers",
+        "Assess customer requests and add features to the development schedule",
+        "Support the customer services team with worldwide clients. This includes back end database queries, scripting and researching communication tools",
+        "Identified the need to standardise the application front end to reduce developer workload and undertook a front end redesign using the Bootstrap toolkit. I chose Bootstrap for it’s professional web application look, strong developer community and cross browser compatibility",
+        "Organised monthly software release and deployment cadence",
+        "Championed a company wide move from Trac and Subversion to Git and Atlassian Jira, Confluence and Bitbucket. This improved the issue tracking and project management workflow and dramatically improved communication within the company",
+        "Integrated a PHP digital screen advertising feature into the Visual ID application",
+        "Developed Facebook integration with the product using the Facebook API",
+        "Regular blog contributer to the company website"
+      ]
+    },
+    {
+      "company": "Decisions [D4H]",
+      "position": "Technical Internship",
+      "website": "http://onepagecrm.com",
+      "startDate": "2011-10-01",
+      "endDate": "2012-05-30",
+      "highlights": [
+        "Worked as part of the development team as a web developer using the PHP CodeIgniter framework and git version repository, releasing production code to the marketing site, decisions.d4h.org",
+        "Using the Assembla issue tracking application, performed testing in Internet Explorer 6-9, building bug reports for the development team to fix; issues ranged from low priority to critical",
+        "Tasked to build a product specification for an international missing persons database. Completed a comparison grid of requirements for compatibility with an international standard",
+        "Search engine optimisation of the organisation’s main marketing website by improving metadata",
+        "Improved its inbound leads and conversion rate by testing over 1000 keywords on 50 new Google text ads"
+      ]
+    },
+    {
+      "company": "Self Employed",
+      "startDate": "2007-09-01",
+      "endDate": "2010-09-01",
+      "summary": "",
+      "highlights": [
+        "Opened the top ranked hostel in Sligo, Rosses Point Guesthouse with two partners before selling my share.",
+        "Opened and ran the second largest kitesurfing centre in Ireland, LSD Kiteboarding",
+        "Opened and ran a small sailing school, Rosses Point Sailing"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "RNLI Lifeboats",
+      "position": "Crew",
+      "startDate": "2009-01-01",
+      "endDate": "2011-09-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "National University of Ireland, Galway",
+      "studyType": "Bachelor of Engineering (Mechanical)",
+      "startDate": "2003-09-01",
+      "endDate": "2007-05-01",
+      "gpa": "Second Class Honours"
+    },
+    {
+      "institution": "Dublin City University",
+      "studyType": "Graduate Diploma in Information Technology",
+      "startDate": "2011-09-01",
+      "endDate": "2012-05-01",
+      "gpa": "Credit"
+    }
+  ]
+}
