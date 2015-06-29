@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Lazy Developer Website Talk
