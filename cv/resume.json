@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Peter Armstrong",
-    "label": "Ruby on Rails Developer",
+    "label": "Software Developer / Mechanical Engineer",
     "email": "peteretep@gmail.com",
     "website": "http://peterarmstrong.ie",
     "profiles": [
@@ -29,8 +29,9 @@
       "startDate": "2014-02-01",
       "summary": "",
       "highlights": [
-        "Developing new features and improvements to the OnePageCRM web application using Ruby on Rails, MongoDB",
-        "Responsibility for maintaining the OnePageCRM API and working with the mobile team on new API features",
+        "Developing new features and improvements to the OnePageCRM web application using Ruby on Rails, RSpec, MongoDB",
+        "Maintaining the OnePageCRM API and working with the mobile team on new API features",
+        "Maintaining the OnePageCRM Developer portal and communicating with integration partners",
         "Maintaining and improving the large legacy codebase",
         "Leading the weekly team retrospective meeting",
         "Regular support responsibilities, both to technical and non technical customers",
@@ -83,6 +84,11 @@
     }
   ],
   "volunteer": [
+    { 
+      "organization": "Rails Girls Galway",
+      "position": "Coach",
+      "website": "http://railsgirls.com/files/galway/about"
+    },
     {
       "organization": "RNLI Lifeboats",
       "position": "Crew",
