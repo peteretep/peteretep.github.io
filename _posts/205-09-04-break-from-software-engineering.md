@@ -16,11 +16,11 @@ The 'Next Action' concept can be applied to any project and I hope to continue u
 So, with that in mind, what was my own 'Next Action'?
 
 <ul class="fa-ul">
-	<li><i class="fa-li fa fa-check-square"></i>
+	<li><i class="fa-li fa fa-check-square-o"></i>
 		First, I raced in my second sprint triathlon. This one included a swim in Salthill, a bike ride out past Barna and a run from Salthill to Galway and back. The weather was perfect and it was all done and dusted by 11am.
 	</li>
 
-	<li><i class="fa-li fa fa-check-square"></i>
+	<li><i class="fa-li fa fa-check-square-o"></i>
 		Then, as my bike was running so well after the triathlon, I decided to take the next two days cycling from Galway to Cork.
 	</li>
 </ul>
@@ -28,9 +28,9 @@ So, with that in mind, what was my own 'Next Action'?
 
 Next, was something a bit more serious.
 
-# Return to University
+## Return to University
 
-I'm making a return to university to do a Masters in marine renewable energy engineering.
+I'm returning to university to do a Masters in marine renewable energy engineering.
 The course is based in University College Cork, right down the south of Ireland.
 
 It's pretty intimidating to be leaving a good career and returning to studies, but I'm really excited about it.
@@ -45,3 +45,5 @@ University College Cork is the centre of excellence in Ireland for marine energy
 
 
 I'm really looking forward to getting involved in this industry in whatever way I can.
+
+  [1]: http://www.ucc.ie/beaufort/
