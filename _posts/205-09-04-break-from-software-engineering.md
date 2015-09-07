@@ -15,7 +15,7 @@ The 'Next Action' concept can be applied to any project and I hope to continue u
 
 So, with that in mind, what was my own 'Next Action'?
 
-<ul>
+<ul class="fa-ul">
 	<li><i class="fa-li fa fa-check-square"></i>
 		First, I raced in my second sprint triathlon. This one included a swim in Salthill, a bike ride out past Barna and a run from Salthill to Galway and back. The weather was perfect and it was all done and dusted by 11am.
 	</li>
