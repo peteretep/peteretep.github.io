@@ -7,13 +7,13 @@ author: peter
 date: 2015-09-04 13:24:22
 ---
 
-Last week I finished up my job as a Ruby on Rails developer at OnePageCRM.
+Last week I finished up my job as a Ruby on Rails developer at [OnePageCRM][1].
 It was a real pleasure working with everybody at OnePageCRM - the development team, product owners and our fantastic customer success team. There is a great bunch of people working there and I will miss them all.
 
 I learned a lot at OnePageCRM, but one of the most important things I will bring away is the 'Get Things Done' methodology that is at the core of the OnePageCRM product.
 The 'Next Action' concept can be applied to any project and I hope to continue using this kind of thinking in my life after OnePageCRM.
 
-So, with that in mind, what was my own 'Next Action'?
+### So, with that in mind, what was my own 'Next Action'?
 
 <ul class="fa-ul">
 	<li><i class="fa-li fa fa-check-square-o"></i>
@@ -21,14 +21,15 @@ So, with that in mind, what was my own 'Next Action'?
 	</li>
 
 	<li><i class="fa-li fa fa-check-square-o"></i>
-		Then, as my bike was running so well after the triathlon, I decided to take the next two days cycling from Galway to Cork.
+		Then, as my bike was running so well after the triathlon, I decided to take the next two days and cycle from Galway to Cork.
 	</li>
 </ul>
 
+<img class="img-responsive img-rounded" src="/img/cycle_kilcock.jpg"/>
 
-Next, was something a bit more serious.
+Fun, but next is something a bit more serious.
 
-## Return to University
+## Return to University 
 
 I'm returning to university to do a Masters in marine renewable energy engineering.
 The course is based in University College Cork, right down the south of Ireland.
@@ -46,4 +47,5 @@ University College Cork is the centre of excellence in Ireland for marine energy
 
 I'm really looking forward to getting involved in this industry in whatever way I can.
 
-  [1]: http://www.ucc.ie/beaufort/
+  [1]: http://onepagecrm.com/
+  [2]: http://www.ucc.ie/beaufort/
