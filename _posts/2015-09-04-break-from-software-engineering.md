@@ -5,8 +5,7 @@ slug: "break-from-software-engineering"
 category: blog
 author: peter
 date: 2015-09-04 13:24:22
-excerpt: Last week I finished up my job as a Ruby on Rails developer at OnePageCRM.
-It was a real pleasure working with everybody at OnePageCRM - the development team, product owners and our fantastic customer success team. There is a great bunch of people working there and I will miss them all.
+excerpt: Last week I finished up my job as a Ruby on Rails developer at OnePageCRM. It was a real pleasure working with everybody at OnePageCRM - the development team, product owners and our fantastic customer success team. There is a great bunch of people working there and I will miss them all.
 ---
 
 Last week I finished up my job as a Ruby on Rails developer at [OnePageCRM][1].
