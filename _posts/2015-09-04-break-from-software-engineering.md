@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A break from Software Engineering"
+title: "A Break From Software Engineering"
 slug: "break-from-software-engineering"
 category: blog
 author: peter
