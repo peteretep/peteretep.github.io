@@ -1,9 +1,12 @@
 ---
 published: true
+layout: post
+slug: "marine-renewable-energy"
+category: engineering
+author: peter
 ---
 
 
-## Marine Renewable Energy - Week 1
 
 Last Monday I started a masters in Marine Renewable Energy. I'm planning to write a bit about the course and what I'm learning as the year goes on.
 I won't be writing about anything new, unique or anything that can't be found elsewhere, better explained and in more detail.
