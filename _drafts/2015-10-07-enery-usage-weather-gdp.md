@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: "enery-usage-in-ireland-compared-with weather-and-gdp"
+slug: "energy-usage-in-ireland-compared-with weather-and-gdp"
 category: engineering
 author: peter
 ---
