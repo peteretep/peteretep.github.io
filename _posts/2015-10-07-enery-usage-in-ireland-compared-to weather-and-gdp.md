@@ -3,12 +3,13 @@ layout: post
 slug: "energy-use-ireland-weather-gdp"
 category: engineering
 author: peter
+excerpt: Energy usage in Ireland is affected by weather patterns and economic activity. Any analysis of energy efficiency measures must take these factors into account.
 ---
 
 # Introduction
 Energy usage in Ireland is affected by weather patterns and economic activity. Any analysis of energy efficiency measures must take these factors into account.
 
-<img src="img/energy_temp_gdp_ireland.png"/>
+<img class="img-responsive img-rounded" src="/img/energy_temp_gdp_ireland.png"/>
 
 # Analysis
 
