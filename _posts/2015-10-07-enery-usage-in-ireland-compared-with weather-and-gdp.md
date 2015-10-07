@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 slug: "energy-use-ireland-weather-gdp"
 category: engineering
