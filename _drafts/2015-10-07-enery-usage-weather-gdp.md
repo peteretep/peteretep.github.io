@@ -4,19 +4,18 @@ layout: post
 slug: "enery-usage-in-ireland-compared-with weather-and-gdp"
 category: engineering
 author: peter
----
-
-Using the graph above discuss Ireland’s energy trends over the period 2007 – 2011, focussing on the impacts of the economy and weather.
 
 # Introduction
-Energy usage in Ireland is affected by weather patterns and economic activity. Any analysis of energy efficency measures must take these factors into account.
+Energy usage in Ireland is affected by weather patterns and economic activity. Any analysis of energy efficiency measures must take these factors into account.
+
+<img src="img/energy_temp_gdp_ireland.png" alt="energy usage degree days GDP Ireland" title="Energy usage, degree days and GDP in Ireland"/>
 
 # 2008
 
 2008 was a cold year in Ireland - 20% colder than the previous year.
 The country was in recession, with a negative growth in GDP. This negative growth in GDP should have caused a drop in energy use. There was an associated drop in energy usage in industry and transport in 2008. However the energy usage in the residential and services sector was higher. This could be attributed to the colder temperatures, requiring more energy usage in heating in homes and businesses.
 
-# TODO: statistic for heating usage
+<!-- # TODO: statistic for heating usage -->
 
 # 2009
 2009 did not have a similar dramatic change in temperature. The country entered a deeper recession and this caused a decline in energy usage from the previous year in all sectors. 
