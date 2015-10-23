@@ -6,8 +6,6 @@ category: engineering
 author: peter
 ---
 
-# On finding 'Flow'
-
 Much is written in programmer blogs and sites about 'getting in the zone' or finding 'flow'. I find it hard to get myself settled down to a piece of work, particularly when it's not something I'm interested in or feel falls within my competencies. If I don't want to do it - I struggle.
 
 I'm currently trying to write an assignment that outlines how well Europe is meeting it's greenhouse gas and renewable energy targets. It's a matter of finding and reading documents and figures from various different EU websites. I'm finding it really hard to get my head down to work on this - I haven't been able to find any sort of 'flow'.
