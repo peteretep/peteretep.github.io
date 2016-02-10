@@ -1,5 +1,4 @@
 name: Peter Armstrong
-markdown: redcarpet
 paginate: 7
 paginate_path: "page:num/"
 
