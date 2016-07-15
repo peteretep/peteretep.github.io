@@ -40,9 +40,9 @@ Turbine components need to be resistant to the harsh environment where they are 
 
 A number of other factors also need to be taken into account to reduce the overall cost of energy:
 
-  * [Ease of manufacture:] With more and more turbine deployments each year, the number of blades required is increasing. Manufacturing methods must be improved to enable cheaper, quicker construction, while keeping quality high.
+  * Ease of manufacture: With more and more turbine deployments each year, the number of blades required is increasing. Manufacturing methods must be improved to enable cheaper, quicker construction, while keeping quality high.
 
-  * [Transportability:] Blades must be transported to hard to reach areas. Most blades are currently generally built in one long section. These long loads can be difficult and costly to transport. 
+  * Transportability: Blades must be transported to hard to reach areas. Most blades are currently generally built in one long section. These long loads can be difficult and costly to transport. 
 
 
 
@@ -59,7 +59,6 @@ Stiffness can be added to the material by sandwiching a layer of lightweight foa
 Building with composites is an additive process - rather than cutting the required shape from a block of material, the material is added in layers to form the required shape. This makes composites suitable for the complex curved shapes needed in wind turbine blades.
 
 Composite materials can be engineered to have superior strength and stiffness to other materials. Parts can be manufactured to have different properties in different locations by ``strategically placing material and orienting fiber direction'' \citeperformance_composites_fiberglass.
-% With composite construction, the blades can be hollow structures with some internal support.
 
 Composite materials have been used in the marine industry for years. Unlike metals, they do not oxidise. Composite materials do degrade after prolonged exposure to UV in sunlight. Protective gel coats and other treatments have been developed to reduce UV degradation. 
 
@@ -79,10 +78,10 @@ Open moulding or hand-layup is the simplest composite manufacturing method. It h
 
 Disadvantages to this method include \citecrutchlow_changing_2004:
 
-\begindescription
-  \item [Lower quality laminates:] The quality of the laminates depends on the percentage of voids (not wetted out areas) in the material. Open moulding is generally done by hand so the quality will depend on the individual operator.
-  \item [Heavier components:] Manually wetting out areas results in laminates with a high resin content. This means the components are heavier and more expensive than they need to be.
-  \item [Environment, Health and Safety:] Polyester and epoxy resins release volatile organic compounds (VOC's) that are dangerous to human health and harm the environment. As wetting out is a manual process, the operators may be exposed to a high level of VOC's.
+
+  * Lower quality laminates: The quality of the laminates depends on the percentage of voids (not wetted out areas) in the material. Open moulding is generally done by hand so the quality will depend on the individual operator.
+  * Heavier components: Manually wetting out areas results in laminates with a high resin content. This means the components are heavier and more expensive than they need to be.
+  * Environment, Health and Safety: Polyester and epoxy resins release volatile organic compounds (VOC's) that are dangerous to human health and harm the environment. As wetting out is a manual process, the operators may be exposed to a high level of VOC's.
 \enddescription
 
 ## Vacuum Moulding
@@ -92,9 +91,9 @@ In this process, the fiber layers are laid out in a mould which is then closed a
 
 This process has a number of advantages including:
 \begindescription
-  \item [Safer for operators and environment:] As the system is closed, the resin does not give off VOC's as it is curing. Operator contact to the resin is minimised.
-  \item [Fewer voids:] The vacuum sucks all the air from the mould, meaning the resin can better impregnate the fibers. Fewer voids result in a higher quality laminate with more predictable qualities.
-  \item [Lighter:] Resin quantities can be carefully controlled, preventing excess use. This results in a light, well balanced blade.
+  * Safer for operators and environment: As the system is closed, the resin does not give off VOC's as it is curing. Operator contact to the resin is minimised.
+  * Fewer voids: The vacuum sucks all the air from the mould, meaning the resin can better impregnate the fibers. Fewer voids result in a higher quality laminate with more predictable qualities.
+  * Lighter: Resin quantities can be carefully controlled, preventing excess use. This results in a light, well balanced blade.
 \enddescription
 
 LM Wind Power has been using vacuum assisted resin transfer moulding (VARTM) since 1997 \citelm_vartm. They highlight the flexibility and improved control of the process, fast throughput and safe working environments as advantages of VARTM over other technologies. 
@@ -110,28 +109,22 @@ Prepreg materials also come in tape form. The tape is wound around a mandrill (m
 Prepreg materials have a number of advantages including:
 
 \begindescription
-  \item [Ease of use:] The material is already combined, eliminating a major stage of the manufacturing process.
-  \item [Low void percentage:] The impregnation of the fibers can be controlled carefully and voids can be eliminated.
-  \item [Clean:] The moulding process does not involve liquid matrix material, eliminating the messiest and most environmentally damaging aspect.
-  \item [Consistency:] The amount of resin in a prepreg material can be carefully controlled.
-  \item [Automation:] Use of prepreg materials can simplify automation of construction methods.
+  * Ease of use: The material is already combined, eliminating a major stage of the manufacturing process.
+  * Low void percentage: The impregnation of the fibers can be controlled carefully and voids can be eliminated.
+  * Clean: The moulding process does not involve liquid matrix material, eliminating the messiest and most environmentally damaging aspect.
+  * Consistency: The amount of resin in a prepreg material can be carefully controlled.
+  * Automation: Use of prepreg materials can simplify automation of construction methods.
 \enddescription
 
 Disadvantages of prepreg materials include:
 
 \begindescription
-  \item [Cost:] Prepreg materials are more expensive.
-  \item [Lower shelf life:] B-stage prepreg materials have a limited shelf life. Some materials need to be stored at lower temperatures.
-  \item [Heat cure:] Prepregs require higher temperatures to cure. Manufactures need to use autoclaves or heated moulds to cure prepreg components.
+  * Cost: Prepreg materials are more expensive.
+  * Lower shelf life: B-stage prepreg materials have a limited shelf life. Some materials need to be stored at lower temperatures.
+  * Heat cure: Prepregs require higher temperatures to cure. Manufactures need to use autoclaves or heated moulds to cure prepreg components.
 \enddescription
 
 A number of prepreg manufactures are working with blade manufactures to supply suitable materials. Hexcel supply Vestas and have opened factories close to Vestas manufacturing sites in Colorado, USA and Tianjin, China \citehexcel_prepreg_sites.
-
-% ## Issues
-% Failures - delamination
-% Design issues
-% Problems
-
 
 
 # Material Advances
@@ -140,7 +133,6 @@ A number of prepreg manufactures are working with blade manufactures to supply s
 Glass fiber (GF) is currently the most widely used fiber material. Carbon fiber based composites are lighter and stiffer than GF. These properties would make it ideal for construction of longer blades if it wasn't for the higher price of carbon fiber.
 Current manufacturing methods for carbon fibers are slow and energy intensive \citecarbon_fiber_energy_gov. 
 
-% TODO: Insert Price comparison
 
 Carbon fiber is widely used in the aerospace industry. New planes from Boeing and Airbus use a lot of carbon fiber and there were concerns that manufacturing supply would not be able to meet demands. 
 The aerospace companies can afford the higher prices \citecompositesWorld_wind_blade_manufacturing, but some blade manufacturers believe it is not economically viable to extensively use carbon fiber in wind turbine blades.
@@ -159,9 +151,9 @@ Thermopreg\texttrademark  is a trademarked glassfiber and polypropylene thermopl
 Advantages of these materials include:
 
 \begindescription
-  \item [Recyclable:] Thermoplastic polymers are generally recyclable.
-  \item [Durability:] Thermoplastic composites are more durable and resistant to impact than thermoset composites.
-  \item [Automation:] Thermoplastic composite are suitable for a wider range of automated manufacture methods.
+  * Recyclable: Thermoplastic polymers are generally recyclable.
+  * Durability: Thermoplastic composites are more durable and resistant to impact than thermoset composites.
+  * Automation: Thermoplastic composite are suitable for a wider range of automated manufacture methods.
 \enddescription
 
 Éirecomposites Teoranta have researched these materials extensively, and currently produce a small turbine blade from Twintex\texttrademark.
@@ -217,8 +209,8 @@ Blade Dynamics have a number of patents on their technology. The main patent \ci
 
 Apart from better transportability, Blade Dynamics believe the modular system has many advantages including:
 
-  * [Quality Control:] Manufacture of smaller parts can be more easily automated, helping to keep quality high. If a defect in a part is found, that part can be swapped out, rather than replacing the full blade.
-  * [Standardised Components:] Components can be used in many different designs. Production of the standardised components can be more easily scaled up.
+  * Quality Control: Manufacture of smaller parts can be more easily automated, helping to keep quality high. If a defect in a part is found, that part can be swapped out, rather than replacing the full blade.
+  * Standardised Components: Components can be used in many different designs. Production of the standardised components can be more easily scaled up.
 
 Blade Dynamics are currently testing a 78m blade built to their modular designs \citeblade_dynamics_news.
 
@@ -229,3 +221,6 @@ The industrial scale wind energy industry could not exist without composite mate
 The requirement for larger blades is expected to continue. Advances in design, manufacturing techniques and materials are needed to meet the requirements of tomorrow's wind turbine blades.
 Manufacturers differ on the best route to achieve these larger blades. While Blade Dynamics are developing a modular system based on new technologies, Vestas are introducing more carbon fiber and LM Wind Power are concentrating on minor improvements to existing, well understood technologies.
 Each approach is a valid engineering solution and it remains to be seen which approach will be most successful.
+
+
+A properly formatted paper with citations is available [here](../papers/turbine_blades.pdf)
