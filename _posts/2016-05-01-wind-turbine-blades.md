@@ -223,4 +223,4 @@ Manufacturers differ on the best route to achieve these larger blades. While Bla
 Each approach is a valid engineering solution and it remains to be seen which approach will be most successful.
 
 
-A properly formatted paper with citations is available [here](../papers/turbine_blades.pdf)
+A properly formatted paper with citations is available [here](../../../papers/turbine_blades.pdf)
