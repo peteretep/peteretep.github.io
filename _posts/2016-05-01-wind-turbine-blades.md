@@ -11,6 +11,8 @@ This paper discusses the use of composite plastic materials in the manufacture o
 Current manufacturing processes are explained, followed by recent advances and future developments in a number of areas. 
 Advances in materials are discussed, followed by design and manufacture developments. The use of composite materials to deal with maintenance and reliability issues is discussed. Finally, developments in multi-section and modular blades is discussed. A number of approaches from different manufactures are discussed and a number of patents are looked at.  Developments in each of these areas are required to meet this demand, but there is no consensus from manufacturers on the best way forward.
 
+A properly formatted version of this paper with citations is available [here](../../../../papers/turbine_blades.pdf)
+
 # Introduction
 Wind energy is a booming industry with more and more farms being developed each year. The three bladed horizontal axis wind turbine has become the industry standard design, and there are many competing companies developing wind machines and components.
 
@@ -223,4 +225,3 @@ Manufacturers differ on the best route to achieve these larger blades. While Bla
 Each approach is a valid engineering solution and it remains to be seen which approach will be most successful.
 
 
-A properly formatted paper with citations is available [here](../../../../papers/turbine_blades.pdf)
