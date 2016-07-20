@@ -160,6 +160,7 @@ Research into these composites continues and they may have a more significant ro
 
 
 # Design and Manufacture
+
 ## Computer Aided Design
 Computer aided design tools such as computational fluid dynamics (CFD) and finite element methods (FEM) are used extensively to model blade designs, stresses and aerodynamic loads. The detailed analysis can give a clear picture of the composite properties required.
 
