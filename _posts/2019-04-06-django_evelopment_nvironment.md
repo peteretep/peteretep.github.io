@@ -7,9 +7,8 @@ author: peter
 ---
 
 I'll shortly be starting a new job, and it's back to the web development world for me.
-The last time I was actively working as a web developer, it was mainly in a Ruby on Rails environment. I love Rails and it's convention over configuration approach. I'm more than happy to go with the design choices made by people much more experienced than I am!
+The last time I was actively working as a web developer, it was mainly in a Ruby on Rails environment. I love Rails and it's convention over configuration approach. I'm more than happy to go with the design choices made by people much more experienced than I am! My new job seems to be mostly in the Django world. Django is the Python equivalent of Rails - a full web framework "with batteries included".
 
-My new job seems to be mostly in the Django world. Django is the Python equivalent of Rails - a full web framework "with batteries included".
 I like this approach as the work I mostly interested in at the moment doesn't need javascript based single page application kind of things.
 Python has always been on the edges of my programming work - I haven't done a huge amount of core work in Python, but I've spent plenty of time working through tutorials and  using and editing other people's Python work.
 I'm really happy to be moving over to Python - it's extensive use in the engineering and data science world makes me feel like it is a solid career move. I'll miss the "poetry" of Ruby, but Python is pretty too!
